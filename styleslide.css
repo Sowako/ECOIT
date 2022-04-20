@@ -1,0 +1,87 @@
+.title{
+    color: red;
+    text-decoration: underline;
+  }
+
+ article {
+    height: auto;
+     }
+
+  article > img{
+height: 100%;
+width: 100%;
+  border-radius: 25px;
+}
+
+footer{
+background:black;
+  color: white;
+display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  min-height: 100%;
+ 
+  padding: 2rem 0;
+ 
+  
+ 
+}
+
+.article1 , .article2 , .article3{
+border: 3px solid yellow;
+margin-bottom: 20px;
+}
+
+article  h3, article  p{
+  margin-left: 100px;
+}
+article img{
+  height:60px;
+  width:60px;
+  float:left;
+}
+aside > img{
+height: 100%;
+  width:100%;
+  margin-bottom:15px;
+}
+.carousel{
+  width:100%;
+  
+}
+
+.carousel-item, .carousel-item active{
+  height:900px;
+ 
+}
+
+.profil{
+  margin-right: 20px;
+}
+
+#logo{
+  height:60px;
+  width:60px;
+}
+
+
+
+main{
+  margin-left:400px;
+}
+
+
+
+nav span a{
+  margin-right: 20px;
+}
+nav span img{
+  margin-right: 10px;
+}
+
+.carousel slide{
+  height: auto;
+  width: auto;
+}
