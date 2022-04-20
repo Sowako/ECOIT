@@ -22,10 +22,15 @@ Pour le back :
  ● PHP 8.1 sous PDO  
  ● MySQL
 
-CREATION DE LA BASE DE DONNEES:
-1.Insérer les tables dans xampp
+Utilisation:
+1.Insérer les bases de données SQL dans xampp
+
+2.Activer le serveur local
  
+3.Inscrivez-vous
+
+4.Connecter-vous 
+
+5.Bienvenue sur ECOIT
 
 
-2.Creation d'un ADMIN
-INSERT INTO utilisateurs(pseudo, email, password, type) VALUES (admin, admin@admin.com, admin, admin); 
